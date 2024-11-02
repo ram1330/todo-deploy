@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/todo-deploy/static/js/main.94ce676a.js",
+    "index.html": "/todo-deploy/index.html",
+    "main.94ce676a.js.map": "/todo-deploy/static/js/main.94ce676a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.94ce676a.js"
+  ]
+}
